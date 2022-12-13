@@ -7,7 +7,6 @@
             Greetings();
             string? Input;
             ParserOutput output;
-            bool Complete = false;
             while (true)
             {
                 Input = Console.ReadLine();
