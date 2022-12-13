@@ -1,0 +1,15 @@
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\bin\Debug\net6.0\ParserUpdate.exe
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\bin\Debug\net6.0\ParserUpdate.deps.json
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\bin\Debug\net6.0\ParserUpdate.runtimeconfig.json
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\bin\Debug\net6.0\ParserUpdate.dll
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\bin\Debug\net6.0\ParserUpdate.pdb
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.csproj.AssemblyReference.cache
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.AssemblyInfoInputs.cache
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.AssemblyInfo.cs
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.dll
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\refint\ParserUpdate.dll
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.pdb
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ParserUpdate.genruntimeconfig.cache
+C:\Users\Костя\source\repos\ParserUpdate\ParserUpdate\ParserUpdate\obj\Debug\net6.0\ref\ParserUpdate.dll
